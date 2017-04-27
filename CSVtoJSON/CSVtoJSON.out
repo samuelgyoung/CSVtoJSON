@@ -1,0 +1,67 @@
+2016-08-26 13:00:15,306 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:46) Creating the Master JSON Document.
+2016-08-26 13:00:15,309 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:50) Creating the Master Array that goes in the Master JSON Document.
+2016-08-26 13:00:15,310 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:59) About to read file: test.csv
+2016-08-26 13:00:15,310 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:65) Line in file: test.csv, Line: 0
+2016-08-26 13:00:15,310 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:68) First Line of CSV File. Grabbing first line as the header test.csv
+2016-08-26 13:00:15,310 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:70) Going to Next line. Header is : String,Integer,Float,"String ,"With" Quotes",Character
+2016-08-26 13:00:15,311 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:65) Line in file: test.csv, Line: 1
+2016-08-26 13:00:15,311 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:75) Creating a JSON Object to place into Array. 
+2016-08-26 13:00:15,311 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:78) Processing Line: abc,2,3.14,"test",a
+2016-08-26 13:00:15,311 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:80) Using established header: String,Integer,Float,"String ,"With" Quotes",Character
+2016-08-26 13:00:15,312 [main] DEBUG com.l33tindustries.tools.datastructure.CSVdata - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:93) Processing Line: null
+2016-08-26 13:03:58,668 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:46) Creating the Master JSON Document.
+2016-08-26 13:03:58,672 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:50) Creating the Master Array that goes in the Master JSON Document.
+2016-08-26 13:03:58,672 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:59) About to read file: test.csv
+2016-08-26 13:03:58,672 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:65) Line in file: test.csv, Line: 0
+2016-08-26 13:03:58,672 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:68) First Line of CSV File. Grabbing first line as the header test.csv
+2016-08-26 13:03:58,673 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:70) Going to Next line. Header is : String,Integer,Float,"String ,"With" Quotes",Character
+2016-08-26 13:03:58,673 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:65) Line in file: test.csv, Line: 1
+2016-08-26 13:03:58,673 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:75) Creating a JSON Object to place into Array. 
+2016-08-26 13:03:58,673 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:78) Processing Line: abc,2,3.14,"test",a
+2016-08-26 13:03:58,673 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:80) Using established header: String,Integer,Float,"String ,"With" Quotes",Character
+2016-08-26 13:03:58,674 [main] DEBUG com.l33tindustries.tools.datastructure.CSVdata - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:93) Processing Line: abc,2,3.14,"test",a
+2016-08-26 13:03:58,713 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:65) Line in file: test.csv, Line: 2
+2016-08-26 13:03:58,713 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:75) Creating a JSON Object to place into Array. 
+2016-08-26 13:03:58,713 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:78) Processing Line: def,420,2.17,"another test",b
+2016-08-26 13:03:58,713 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:80) Using established header: String,Integer,Float,"String ,"With" Quotes",Character
+2016-08-26 13:03:58,713 [main] DEBUG com.l33tindustries.tools.datastructure.CSVdata - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:93) Processing Line: def,420,2.17,"another test",b
+2016-08-26 13:03:58,715 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:65) Line in file: test.csv, Line: 3
+2016-08-26 13:03:58,716 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:75) Creating a JSON Object to place into Array. 
+2016-08-26 13:03:58,716 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:78) Processing Line: ghi,123,8.3,"yet, another test",,
+2016-08-26 13:03:58,716 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:80) Using established header: String,Integer,Float,"String ,"With" Quotes",Character
+2016-08-26 13:03:58,716 [main] DEBUG com.l33tindustries.tools.datastructure.CSVdata - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:93) Processing Line: ghi,123,8.3,"yet, another test",,
+2016-08-26 13:03:58,718 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:65) Line in file: test.csv, Line: 4
+2016-08-26 13:03:58,718 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:75) Creating a JSON Object to place into Array. 
+2016-08-26 13:03:58,718 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:78) Processing Line: qwe,420,2.17,"another test"
+2016-08-26 13:03:58,718 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:80) Using established header: String,Integer,Float,"String ,"With" Quotes",Character
+2016-08-26 13:03:58,719 [main] DEBUG com.l33tindustries.tools.datastructure.CSVdata - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:93) Processing Line: qwe,420,2.17,"another test"
+2016-08-26 13:03:58,720 [main] ERROR CSVtoJSON - main(CSVtoJSON.java:132) Header and Data are not equal. Skipping line 4
+2016-08-26 13:03:58,720 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:135)Adding everyting to the master bulk docs array 
+2016-08-26 13:11:59,753 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:46) Creating the Master JSON Document.
+2016-08-26 13:11:59,757 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:50) Creating the Master Array that goes in the Master JSON Document.
+2016-08-26 13:11:59,757 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:59) About to read file: test.csv
+2016-08-26 13:11:59,758 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:65) Line in file: test.csv, Line: 0
+2016-08-26 13:11:59,758 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:68) First Line of CSV File. Grabbing first line as the header test.csv
+2016-08-26 13:11:59,758 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:70) Going to Next line. Header is : String,Integer,Float,"String ,"With" Quotes",Character
+2016-08-26 13:11:59,758 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:65) Line in file: test.csv, Line: 1
+2016-08-26 13:11:59,758 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:75) Creating a JSON Object to place into Array. 
+2016-08-26 13:11:59,758 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:78) Processing Line: abc,2,3.14,"test",a
+2016-08-26 13:11:59,759 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:80) Using established header: String,Integer,Float,"String ,"With" Quotes",Character
+2016-08-26 13:11:59,760 [main] DEBUG com.l33tindustries.tools.datastructure.CSVdata - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:93) Processing Line: abc,2,3.14,"test",a
+2016-08-26 13:11:59,787 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:65) Line in file: test.csv, Line: 2
+2016-08-26 13:11:59,787 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:75) Creating a JSON Object to place into Array. 
+2016-08-26 13:11:59,787 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:78) Processing Line: def,420,2.17,"another test",b
+2016-08-26 13:11:59,788 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:80) Using established header: String,Integer,Float,"String ,"With" Quotes",Character
+2016-08-26 13:11:59,788 [main] DEBUG com.l33tindustries.tools.datastructure.CSVdata - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:93) Processing Line: def,420,2.17,"another test",b
+2016-08-26 13:11:59,790 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:65) Line in file: test.csv, Line: 3
+2016-08-26 13:11:59,790 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:75) Creating a JSON Object to place into Array. 
+2016-08-26 13:11:59,790 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:78) Processing Line: ghi,123,8.3,"yet, another test",,
+2016-08-26 13:11:59,790 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:80) Using established header: String,Integer,Float,"String ,"With" Quotes",Character
+2016-08-26 13:11:59,790 [main] DEBUG com.l33tindustries.tools.datastructure.CSVdata - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:93) Processing Line: ghi,123,8.3,"yet, another test",,
+2016-08-26 13:11:59,792 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:65) Line in file: test.csv, Line: 4
+2016-08-26 13:11:59,792 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:75) Creating a JSON Object to place into Array. 
+2016-08-26 13:11:59,792 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:78) Processing Line: qwe,420,2.17,"another test"
+2016-08-26 13:11:59,792 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:80) Using established header: String,Integer,Float,"String ,"With" Quotes",Character
+2016-08-26 13:11:59,793 [main] DEBUG com.l33tindustries.tools.datastructure.CSVdata - l33tindustries.tools.datastructure.CSVdata.CSVLinetoJSON(CSVdata.java:93) Processing Line: qwe,420,2.17,"another test"
+2016-08-26 13:11:59,794 [main] ERROR CSVtoJSON - main(CSVtoJSON.java:132) Header and Data are not equal. Skipping line 4
+2016-08-26 13:11:59,794 [main] DEBUG CSVtoJSON - main(CSVtoJSON.java:135)Adding everyting to the master bulk docs array 
